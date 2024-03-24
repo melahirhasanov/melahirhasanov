@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melahirhasanov
-- 👀 I’m interested in ...Security and Oython Backend
+- 👀 I’m interested in ...Security and Python Backend
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Security and Python
 - 📫 How to reach me ...
